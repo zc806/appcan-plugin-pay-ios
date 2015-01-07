@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexPay" version="3.0.3" build="3">
+        <info>3:修复公钥为空时的崩溃问题</info>
+        <build>2:延迟回调</build>
+        <build>1:配置plist文件</build>
+        <build>0:支付功能插件</build>
+    </plugin>
+</uexplugins>
+

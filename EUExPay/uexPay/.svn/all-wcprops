@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plugin3.0_ios/!svn/ver/1479/trunk/code/public/EUExPay/uexPay
+END
+libuexPay.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plugin3.0_ios/!svn/ver/1052/trunk/code/public/EUExPay/uexPay/libuexPay.a
+END
+uexPay.plist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plugin3.0_ios/!svn/ver/509/trunk/code/public/EUExPay/uexPay/uexPay.plist
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plugin3.0_ios/!svn/ver/1479/trunk/code/public/EUExPay/uexPay/info.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plugin3.0_ios/!svn/ver/57/trunk/code/public/EUExPay/uexPay/plugin.xml
+END
+uexPay.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plugin3.0_ios/!svn/ver/1052/trunk/code/public/EUExPay/uexPay/uexPay.dylib
+END
